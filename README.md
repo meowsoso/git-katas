@@ -1,9 +1,10 @@
 ---
 maintainer: randomsort
 ---
+
 # Git Katas
 
-## Quick Start
+## Quick Start (TTTHHHISSSS is a test)
 
 ### In the Cloud
 
@@ -12,6 +13,7 @@ maintainer: randomsort
 ### On Your Local Machine
 
 ![Quick Start](/images/quickstart.gif)
+(this is a test 2?)
 
 - Clone this repository
 - Go into the folder you want to solve an exercise in
@@ -121,5 +123,6 @@ git lol     # Does a "git log --graph --pretty=oneline --abbrev-commit --all"
 There is a very small test that you can run in powershell or bash.
 It is contained in the scripts `test.sh` and `test.ps1`.
 
-## Other Resources 
+## Other Resources
+
 [Learn git concepts, not commands](https://dev.to/unseenwizzard/learn-git-concepts-not-commands-4gjc)
